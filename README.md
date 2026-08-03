@@ -11,7 +11,18 @@
 
 ## Education
 ```2022.03 - ``` <b>Dankook Univ. Computer Engineering</b> <br/> <br/>
-```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6th</b>
+
+## Activities
+```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6th</b> <br/> <br/>
+```2025.03 - 2025.09``` <b>9oormthonUNIV 4th</b> <br/> <br/>
+```2025.03 - 2026.02``` <b>AEGIS, Dankook Univ. Central Club</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>Kakao Tech for Impact Campus 1st</b> <br/> <br/>
+```2026.03 - ``` <b>Vice President, LikeLion at Dankook Univ. 14th</b> <br/> <br/>
+
+## Awards
+```2025.09``` <b>2025 단국 창업해커톤 경진대회 SW 분야 - 장려상</b> <br/> <br/>
+```2026.01``` <b>기업데이터 활용 아이디어 해커톤 경진대회 - 우수상</b> <br/> <br/>
+```2026.06``` <b>2026 컨소시엄 캡스톤디자인 경진대회 - 장려상</b> <br/> <br/>
 
 ## Tech Studying
 <p>
