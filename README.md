@@ -16,6 +16,8 @@
 ```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6th</b> <br/> <br/>
 ```2025.03 - 2025.09``` <b>9oormthonUNIV 4th</b> <br/> <br/>
 ```2025.03 - 2026.02``` <b>AEGIS, Dankook Univ. Central Club</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>Dankook Univ. SW Supporters</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>Dankook Univ. SW Expert</b> <br/> <br/>
 ```2026.03 - 2026.06``` <b>Kakao Tech for Impact Campus 1st</b> <br/> <br/>
 ```2026.03 - ``` <b>Vice President, LikeLion at Dankook Univ. 14th</b> <br/> <br/>
 
