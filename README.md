@@ -32,18 +32,16 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> </br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chae-ring&layout=compact&cache_seconds=1800"/> 
 
+## Project
 
-
-
-##  Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ycl0514)](https://solved.ac/ycl0514)
-
-
+| Name | Description | Link |
+|---|---|---|
+| BusOnDan | 단국대학교 셔틀버스와 시내버스 도착 정보 시스템 : 버스온단 | [보기](https://github.com/chae-ring/BusOnDan) |
+| Tikitaka | 실시간 협업 강의 노트 및 질문 아카이빙 시스템 : 티카타카 | [보기](https://github.com/TikiTaka-devTeam) |
+| Hab-eat | AI 모델을 활용해 식단 관리와 챌린지를 지원하는 건강 습관 형성 서비스 : 해빗 | [보기](https://github.com/6billion) |
