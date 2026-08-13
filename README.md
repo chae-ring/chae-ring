@@ -27,6 +27,7 @@
 ```2026.06``` <b>2026 컨소시엄 캡스톤디자인 경진대회 - 장려상</b> <br/> <br/>
 
 ## Certification
+```2024.09``` SQLD (SQL Developer)
 
 ## Tech Studying
 <p>
