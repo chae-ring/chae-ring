@@ -26,6 +26,8 @@
 ```2026.01``` <b>기업데이터 활용 아이디어 해커톤 경진대회 - 우수상</b> <br/> <br/>
 ```2026.06``` <b>2026 컨소시엄 캡스톤디자인 경진대회 - 장려상</b> <br/> <br/>
 
+## Certification
+
 ## Tech Studying
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
