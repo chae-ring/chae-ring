@@ -13,13 +13,13 @@
 ```2022.03 - ``` <b>Dankook Univ. Computer Engineering</b> <br/> <br/>
 
 ## Activities
-```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6th</b> <br/> <br/>
-```2025.03 - 2025.09``` <b>9oormthonUNIV 4th</b> <br/> <br/>
-```2025.03 - 2026.02``` <b>AEGIS, Dankook Univ. Central Club</b> <br/> <br/>
-```2026.03 - 2026.06``` <b>Dankook Univ. SW Supporters</b> <br/> <br/>
-```2026.03 - 2026.06``` <b>Dankook Univ. SW Expert</b> <br/> <br/>
-```2026.03 - 2026.06``` <b>Kakao Tech for Impact Campus 1st</b> <br/> <br/>
-```2026.03 - ``` <b>Vice President, LikeLion at Dankook Univ. 14th</b> <br/> <br/>
+```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6기</b> <br/> <br/>
+```2025.03 - 2025.09``` <b>구름톤UNIV 4기</b> <br/> <br/>
+```2025.03 - 2026.02``` <b>단국대학교 교내 중앙동아리 Aegis</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>단국대학교 SW Supporters 활동</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>단국대학교 SW Expert 활동</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>Kakao Tech for Impact Campus 1기</b> <br/> <br/>
+```2026.03 - ``` <b>멋쟁이사자처럼 대학 14기, 부대표(운영진)</b> <br/> <br/>
 
 ## Awards
 ```2025.09``` <b>2025 단국 창업해커톤 경진대회 SW 분야 - 장려상</b> <br/> <br/>
@@ -27,7 +27,8 @@
 ```2026.06``` <b>2026 컨소시엄 캡스톤디자인 경진대회 - 장려상</b> <br/> <br/>
 
 ## Certification
-```2024.09``` SQLD (SQL Developer)
+```2024.09``` <b>SQLD (SQL 개발자)</b> <br/> <br/>
+```2026.09``` <b>정보처리기사</b> <br/> <br/>
 
 ## Tech Studying
 <p>
