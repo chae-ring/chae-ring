@@ -47,5 +47,5 @@
 | Name | Description | Link |
 |---|---|---|
 | BusOnDan | 단국대학교 셔틀버스와 시내버스 도착 정보 시스템 : 버스온단 | [보기](https://github.com/chae-ring/BusOnDan) |
-| Tikitaka | 실시간 협업 강의 노트 및 질문 아카이빙 시스템 : 티카타카 | [보기](https://github.com/TikiTaka-devTeam) |
+| tikitaka | 실시간 협업 강의 노트 및 질문 아카이빙 시스템 : 티카타카 | [보기](https://github.com/TikiTaka-devTeam) |
 | Hab-eat | AI 모델을 활용해 식단 관리와 챌린지를 지원하는 건강 습관 형성 서비스 : 해빗 | [보기](https://github.com/6billion) |
