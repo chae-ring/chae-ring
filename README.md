@@ -42,10 +42,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
+
 ## Project
 
 | Name | Description | Link |
 |---|---|---|
-| BusOnDan | 단국대학교 셔틀버스와 시내버스 도착 정보 시스템 : 버스온단 | [보기](https://github.com/chae-ring/BusOnDan) |
+| BusOnDan | 단국대학교 셔틀버스와 시내버스 도착 정보 시스템 : 버스온단 | [보기](https://github.com/chae-ring/busondan_dku) |
 | tikitaka | 실시간 협업 강의 노트 및 질문 아카이빙 시스템 : 티카타카 | [보기](https://github.com/TikiTaka-devTeam) |
 | Hab-eat | AI 모델을 활용해 식단 관리와 챌린지를 지원하는 건강 습관 형성 서비스 : 해빗 | [보기](https://github.com/6billion) |
+| 떴냐? 떴다! | 푸드트럭의 실시간 영업 정보를 제공하고 지역 행사 기반 추천을 지원하는 서비스 | [보기](https://github.com/FOOD2LUCK) |
+| 블러핑 (Bluffing) | 마피아 게임 규칙을 활용한 세대 간 소통형 실시간 채팅 및 투표 서비스 | [보기](https://github.com/chae-ring/2025_SEASONTHON_TEAM_87_BE) |
+| 스튜디오 우당탕탕 | 사회혁신 프로젝트의 의뢰부터 진행 과정, 결과물 아카이빙까지 지원하는 웹 플랫폼 | [보기](https://github.com/studio-udtt) |
+| MCMoments | AI 아트워크의 정품 인증과 디지털 보증서 발급 및 소유 제품 관리를 지원하는 서비스 | [보기](https://github.com/chae-ring/2026_LIKELION_HACKATHON) |
+
+
