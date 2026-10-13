@@ -13,7 +13,7 @@
 ```2026.07 - ``` <b>현장실습 - 시선아이티(Developer)</b> <br/> <br/>
 
 ## Education
-```2022.03 - ``` <b>Dankook Univ. Computer Engineering</b> <br/> <br/>
+```2022.03 - ``` <b>Dankook Univ. 컴퓨터공학과</b> <br/> <br/>
 
 ## Activities
 ```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6기</b> <br/> <br/>
@@ -28,6 +28,7 @@
 ```2025.09``` <b>2025 단국 창업해커톤 경진대회 SW 분야 - 장려상</b> <br/> <br/>
 ```2026.01``` <b>기업데이터 활용 아이디어 해커톤 경진대회 - 우수상</b> <br/> <br/>
 ```2026.06``` <b>2026 컨소시엄 캡스톤디자인 경진대회 - 장려상</b> <br/> <br/>
+```2026.08``` <b>멋쟁이사자처럼 대학 14기 중앙 해커톤 ‘Animal League’ — SJF TRACK 입상</b> <br/> <br/>
 
 ## Certification
 ```2024.09``` <b>SQLD (SQL 개발자)</b> <br/> <br/>
