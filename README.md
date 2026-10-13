@@ -9,6 +9,9 @@
 
 </div>
 
+## Career
+```2026.07 - ``` <b>현장실습 - 시선아이티(Developer)</b> <br/> <br/>
+
 ## Education
 ```2022.03 - ``` <b>Dankook Univ. Computer Engineering</b> <br/> <br/>
 
