@@ -13,19 +13,19 @@
 ```2026.07 - ``` <b>현장실습 - 시선아이티(Developer)</b> <br/> <br/>
 
 ## Education
-```2022.03 - ``` <b>Dankook Univ. 컴퓨터공학과</b> <br/> <br/>
+```2022.03 - ``` <b>컴퓨터공학과</b> <br/> <br/>
 
 ## Activities
 ```2024.09 - 2024.12``` <b>TMAX ACADEMY TABA 6기</b> <br/> <br/>
 ```2025.03 - 2025.09``` <b>구름톤UNIV 4기</b> <br/> <br/>
-```2025.03 - 2026.02``` <b>단국대학교 교내 중앙동아리 Aegis</b> <br/> <br/>
-```2026.03 - 2026.06``` <b>단국대학교 SW Supporters 활동</b> <br/> <br/>
-```2026.03 - 2026.06``` <b>단국대학교 SW Expert 활동</b> <br/> <br/>
+```2025.03 - 2026.02``` <b>교내 중앙동아리 Aegis</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>교내 SW Supporters 활동</b> <br/> <br/>
+```2026.03 - 2026.06``` <b>교내 SW Expert 활동</b> <br/> <br/>
 ```2026.03 - 2026.06``` <b>Kakao Tech for Impact Campus 1기</b> <br/> <br/>
 ```2026.03 - ``` <b>멋쟁이사자처럼 대학 14기, 부대표(운영진)</b> <br/> <br/>
 
 ## Awards
-```2025.09``` <b>2025 단국 창업해커톤 경진대회 SW 분야 - 장려상</b> <br/> <br/>
+```2025.09``` <b>2025 창업해커톤 경진대회 SW 분야 - 장려상</b> <br/> <br/>
 ```2026.01``` <b>기업데이터 활용 아이디어 해커톤 경진대회 - 우수상</b> <br/> <br/>
 ```2026.06``` <b>2026 컨소시엄 캡스톤디자인 경진대회 - 장려상</b> <br/> <br/>
 ```2026.08``` <b>멋쟁이사자처럼 대학 14기 중앙 해커톤 ‘Animal League’ — SJF TRACK 입상</b> <br/> <br/>
@@ -51,7 +51,7 @@
 
 | Name | Description | Link |
 |---|---|---|
-| BusOnDan | 단국대학교 셔틀버스와 시내버스 도착 정보 시스템 : 버스온단 | [보기](https://github.com/chae-ring/busondan_dku) |
+| BusOnDan | 교내 셔틀버스와 시내버스 도착 정보 시스템 : 버스온단 | [보기](https://github.com/chae-ring/busondan_dku) |
 | tikitaka | 실시간 협업 강의 노트 및 질문 아카이빙 시스템 : 티카타카 | [보기](https://github.com/TikiTaka-devTeam) |
 | Hab-eat | AI 모델을 활용해 식단 관리와 챌린지를 지원하는 건강 습관 형성 서비스 : 해빗 | [보기](https://github.com/6billion) |
 | 떴냐? 떴다! | 푸드트럭의 실시간 영업 정보를 제공하고 지역 행사 기반 추천을 지원하는 서비스 | [보기](https://github.com/FOOD2LUCK) |
