@@ -33,6 +33,8 @@
 ## Certification
 ```2024.09``` <b>SQLD (SQL 개발자)</b> <br/> <br/>
 ```2026.09``` <b>정보처리기사</b> <br/> <br/>
+```2026.11``` <b>ADsP</b> <br/> <br/>
+
 
 ## Tech Studying
 <p>
